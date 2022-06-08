@@ -142,7 +142,7 @@ p {
 }
 
 @media (max-width:1028px) {
-  #title {
+  .header{
     text-align: center;
   }
 
