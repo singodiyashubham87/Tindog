@@ -59,6 +59,11 @@ p {
   margin: 5% 3% 5% 0%;
 }
 
+.apple,
+.playstore{
+  margin-right: 10px;
+}
+
 /* Title Section */
 
 #title .container-fluid{
