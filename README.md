@@ -1,2 +1,3 @@
 # Tindog
-A repo for demo project.
+
+A repo for my demo project.
